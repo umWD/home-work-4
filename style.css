@@ -1,0 +1,11 @@
+.Content{
+    background-color:hsl(353, 22%, 93%);
+    width:30%;
+}
+img{
+    width:100%;
+}
+.button{
+    background-color:green;
+    border:none;
+}
